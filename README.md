@@ -20,7 +20,3 @@ The usual!
 * Commit your modified `nba.ipynb` file, push, and submit your assignment as usual.
 
 ---
-
-# You're Done! Do the Pandas Dance!
-
-![](https://media.giphy.com/media/uSYQsJQWEv6O4/giphy.gif)
